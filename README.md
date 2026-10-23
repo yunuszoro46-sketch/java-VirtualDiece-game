@@ -27,11 +27,4 @@ A simple Java CLI-based betting game where players wager virtual currency on rol
 
 ---
 
-## 🚀 How to Run
 
-### Option 1: Using Terminal
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yunuszoro46-sketch/java-VirtualDiece-game.git](https://github.com/yunuszoro46-sketch/java-VirtualDiece-game.git)
-   cd java-VirtualDiece-game
