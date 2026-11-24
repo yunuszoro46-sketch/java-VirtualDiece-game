@@ -6,7 +6,7 @@ A simple Java CLI-based betting game where players wager virtual currency on rol
 
 ## 🎮 How It Works
 
-1. **Starting Balance:** The player begins with a default balance of **$1000**.
+1. **Starting Balance:** The player begins with a default balance of **$1000**
 2. **Place a Bet:** Enter the amount of money to wager on the round.
 3. **Choose Game Mode:**
    * **1. Roll Over:** Bet that your target number is higher than the rolled number.
